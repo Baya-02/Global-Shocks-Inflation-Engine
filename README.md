@@ -5,6 +5,7 @@ An end-to-end machine learning and econometric pipeline evaluating the impact of
 ---
 
 ## 📌 Project Overview
+📊 **[View Project Presentation Deck (PDF)](./Global_Shocks_Inflation_Engine.pdf)**
 Macroeconomic shocks do not transmit to consumer prices instantaneously. This project investigates the non-linear and lagged transmission mechanisms of global economic disruptions on U.S. inflation dynamics using historical monthly data from 2000 onward.
 
 ### 🔑 Key Features & Methodology
